@@ -1,4 +1,4 @@
-#🚂 Railway Management System
+# 🚂 Railway Management System
 A Java-based Railway Management System leveraging Swing for the GUI and JDBC for database connectivity. This project provides a streamlined and user-friendly platform for managing railway operations, including train schedules, ticket bookings, and passenger information.
 
 📝 Introduction
