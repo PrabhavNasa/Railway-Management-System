@@ -1,21 +1,21 @@
 # 🚂 Railway Management System
 A Java-based Railway Management System leveraging Swing for the GUI and JDBC for database connectivity. This project provides a streamlined and user-friendly platform for managing railway operations, including train schedules, ticket bookings, and passenger information.
 
-📝 Introduction
+# 📝 Introduction
 This project is designed to automate and simplify railway management tasks, ensuring efficiency and user satisfaction.
 
-Key Functionalities
+# Key Functionalities
 Train Schedule Management
 User Login and Registration
 Ticket Booking and Cancellation
 Passenger Information Management
 Admin System Management
-⚙️ Features
+# ⚙️ Features
 Train Schedule Management: Add, update, and view train schedules.
 User Login and Registration: Secure user authentication system.
 Ticket Booking and Cancellation: Real-time ticket management.
 Admin Panel: Manage trains, users, and overall system operations.
-🖥️ Installation
+# 🖥️ Installation
 Prerequisites
 Java 8 or higher
 MySQL relational database
@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/tanishavyastv/railway-management-system.git  
+git clone (https://github.com/PrabhavNasa/Railway-Management-System)
 Set up the database:
 
 Install MySQL.
@@ -70,7 +70,7 @@ create table chart (
     coach varchar(20),
     dot date
 );
-🚀 Running the Application
+# 🚀 Running the Application
 Using an IDE
 Visual Studio Code (VSCode)
 Open the railway-management-system folder.
@@ -84,4 +84,4 @@ Eclipse
 Open the folder as a project in Eclipse.
 Locate Railway.java in the Package Explorer.
 Right-click and select Run As > Java Application.
-📸 Application Screenshots
+# 📸 Application Screenshots
